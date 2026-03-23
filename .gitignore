@@ -6,3 +6,6 @@ public
 *.sublime-workspace
 *.log
 
+site.config
+*.env
+*.env.*
